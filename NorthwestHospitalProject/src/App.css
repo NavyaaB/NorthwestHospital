@@ -9,3 +9,7 @@
 ButtonToolBar,Button {
   margin-top: 10px;
 }
+#secondNavItem {
+  font-weight: bold;
+  color:#018086;
+}
