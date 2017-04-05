@@ -7,7 +7,7 @@ class SecondNavbar extends Component {
   render() {
     return (
       <div className="App">
-        <Navbar style={{paddingLeft:350}}>
+        <Navbar style={{paddingLeft:350,margin:0}}>
           <Nav><NavItem eventKey={1} href="#" id="secondNavItem">ABOUT</NavItem></Nav>
           <Nav><NavItem eventKey={1} href="#" id="secondNavItem">EMERGRNCY</NavItem></Nav>
           <Nav><NavItem eventKey={1} href="#" id="secondNavItem">FIND A DOCTOR</NavItem></Nav>
