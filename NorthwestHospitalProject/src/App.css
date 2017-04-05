@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #F5F5F5;
 }
 #name {
   font-weight: bold;
@@ -12,4 +13,11 @@ ButtonToolBar,Button {
 #secondNavItem {
   font-weight: bold;
   color:#018086;
+}
+#quote {
+  color: #018086;
+  padding: 80px;
+}
+#hear {
+  height: 300px;
 }
