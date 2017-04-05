@@ -10,10 +10,10 @@ class Heart extends Component {
       <div className="App">
         <Grid>
           <Row>
-            <Col xs={6} md={4}>
+            <Col xs={8} md={6}>
               <Image  id="hear" src={heart}  thumbnail />
             </Col>
-            <Col xs={8} md={8}>
+            <Col xs={4} md={6}>
               <h2 id="quote"><i>keep your heart safe</i></h2>
             </Col>
           </Row>
