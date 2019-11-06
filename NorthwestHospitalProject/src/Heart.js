@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import {Grid, Row, Col, Image} from 'react-bootstrap';
 import heart from '../images/heart.jpg';
 import './App.css';

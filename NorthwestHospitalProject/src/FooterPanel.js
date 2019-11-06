@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import {Panel,ListGroup,ListGroupItem,Row,Grid,Col} from 'react-bootstrap';
 import './App.css';
 
